@@ -1,0 +1,22 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "description": "1 - inicio ao banco 21/01/2022 - 03:04 AM;",
+  "main": "Banco_Dados.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyRodio/projetobanco.git"
+  },
+  "author": "Wesley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyRodio/projetobanco/issues"
+  },
+  "homepage": "https://github.com/WesleyRodio/projetobanco#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
