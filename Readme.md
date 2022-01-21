@@ -1,0 +1,1 @@
+1 - inicio ao banco 21/01/2022 - 03:04 AM;
